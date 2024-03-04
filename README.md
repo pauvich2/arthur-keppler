@@ -18,7 +18,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](img-nobody.png)
 
 Nombre: 
 
