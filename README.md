@@ -1,6 +1,6 @@
 
 # Proyecto Storytelling (template): 
-## my_storytelling
+### my_storytelling
 Plantilla para crear el storytelling (CDNCAV-b)
 
 Nombre del Equipo: 
