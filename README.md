@@ -24,28 +24,30 @@ Tipo/Género:
 
 
 ## Resumen
-
+Arthur Keppler y su antiguo profesor en busca de la eternidad acaban desatando la catástrofe.
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
-
+Nombre: Arthur Keppler
+Es muy miedoso e hipocondríaco. Sobrepiensa todo en exceso pero eso le ayuda en sus grandes aciertos a la hora de tomar decisiones.
 
 ### Historia
-
+Un joven estudiante, cansado de la aburrida vida universitaria decide abandonar la carrera y dedicar su vida a la creación de una fórmula para la inmortalidad. Tras ser interceptado por el ejército oposicionista ruso, decide aliarse con su antiguo profesor Juan Ángel Jódar, el cual tiene métodos científicos cuestionables. Juntos crean una pócima que, debido a un fallo de cálculo provoca la muerte de todos a su alrededor.
 
 ### Contexto
-
+Arthur tiene 20 años recién cumplidos el 29 de febrero, vive con su joven tía Belma y sus abuelos
+Aaron y Lucille. Sus padres fallecieron en un accidente de helicóptero aunque él no termina de creerselo ya que nunca se encontraron los cuerpos. Además tiene a su pez payaso Scott, el cual le acompaña desde que era un niño
 
 ### Conflicto 
-
+ Su vida como estudiante no consigue complacerle por lo que tras dejar los estudios y meterse en problemas con el gobierno ruso, se junta con su exprofesor de ciencias para encontrar la fórmula de la inmortalidad.
 
 
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
+![WhatsApp Image 2024-03-05 at 10 34 35 (1)](https://github.com/pauvich2/arthur-keppler/assets/163114157/ced7b28d-249e-4c45-a2a9-03e7d2dc16d5)
 
 
 - Banner/Teaser:  (enlace) 
