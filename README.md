@@ -34,7 +34,7 @@ Nombre: Arthur Keppler
 Es muy miedoso e hipocondríaco. Sobrepiensa todo en exceso pero eso le ayuda en sus grandes aciertos a la hora de tomar decisiones.
 
 ### Historia
-Un joven estudiante, cansado de la aburrida vida universitaria decide abandonar la carrera y dedicar su vida a la creación de una fórmula para la inmortalidad. Tras ser interceptado por el ejército oposicionista ruso, decide aliarse con su antiguo profesor Juan Ángel Jódar, el cual tiene métodos científicos cuestionables. Juntos crean una pócima que, debido a un fallo de cálculo provoca la muerte de todos a su alrededor.
+Un joven estudiante, cansado de la aburrida vida universitaria decide abandonar la carrera y dedicar su vida a la creación de una fórmula para la inmortalidad. Al coincidir con los intereses del ejército oposicionista ruso, comienza una guerra secreta contra ellos, de quiénes consigue escapar por su extrema inteligencia y su peculiar personalidad creada por traumas de la infancia.  Para avanzar en sus experimentos decide aliarse con su antiguo profesor Juan Ángel Jódar, el cual tiene métodos científicos cuestionables. Juntos crean una pócima que, debido a un fallo de cálculo provoca algo aterrador. Ambos científicos deben intentar cargarle el marrón a los rusos pero eso les llevará a conflictos inimaginables
 
 ### Contexto
 Arthur tiene 20 años recién cumplidos el 29 de febrero, vive con su joven tía Belma y sus abuelos
