@@ -50,7 +50,7 @@ Aaron y Lucille. Sus padres fallecieron en un accidente de helic√≥ptero aunque √
 ![WhatsApp Image 2024-03-05 at 10 34 35 (1)](https://github.com/pauvich2/arthur-keppler/assets/163114157/ced7b28d-249e-4c45-a2a9-03e7d2dc16d5)
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser: https://cloud.protopie.io/p/4b5350f1ceb08d0353f0ca9f
 
 
 - Storytelling: https://arcweave.com/app/project/kM6NVK26m3  
